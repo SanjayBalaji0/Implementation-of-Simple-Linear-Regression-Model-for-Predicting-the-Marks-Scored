@@ -90,13 +90,28 @@ print('RMSE =',rmse)
 ```
 
 ## Output:
-![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/20a1eced-0ae2-4e69-8147-3bbce974770a)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/dc4bd297-e9e4-4325-8fcd-5534088a1c9d)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/11734e09-debc-44fe-9c71-0f6ff4b9d5c1)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/80a9d76c-03a8-4f6e-9db9-79f06bfe5a5d)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/9fa5fd7d-ee12-40d0-b800-2501073e139b)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/727ef88b-3667-49c3-979d-3a7f64f48128)
-
+#  head()
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/4d48f7f4-fe37-4818-acef-f7147b1045ea)
+# tail()
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/7c5a3535-65a7-47f3-ace6-fd3ac96b6a0b)
+# X
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/90fb4d86-6d3d-45b7-afc2-50c9a9a2acfb)
+# Y
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/faab65f7-d043-4402-8d15-8935f47d4ea3)
+# Y_pred
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/a58fdd3b-6a3b-46d7-998a-db6eb4d6870b)
+# Y_test
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/e0e4a53c-6505-4270-82be-2470abd4a83d)
+# Graph 1
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/cf4fbaa2-ecf9-435c-8f7c-5dbaa93296b6)
+# Graph 2
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/8cd85143-305d-4051-81e1-b4ff86b1d175)
+# MSE
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/b9cd9efe-b5f0-4e1b-88a5-e5498753db39)
+# MAE
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/d8fddf05-8be3-4826-ba1a-bf29c81953c6)
+# RMSE
+![image](https://github.com/SanjayBalaji0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145533553/c0bf3044-eb15-4e32-8bb5-2e3f491a9286)
 
 
 ## Result:
